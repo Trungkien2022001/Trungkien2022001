@@ -21,6 +21,7 @@
 
 ## 🙋 About me
 
+- 🎓 **B.Sc. in Computer Science — Hanoi University of Science and Technology (HUST)**.
 - 🏨 I spend my days inside **B2B travel distribution** — the plumbing between agencies / airlines / OTAs and the suppliers that actually hold the inventory.
 - 🔌 My speciality is **supplier integration**: reading someone else's REST / SOAP / XML API, finding its quirks, and turning it into one clean, predictable contract.
 - 🧮 I care about the boring-but-expensive details: **multi-room pricing, cancellation deadlines and time zones, currency, idempotent cancels, retries** — the things that cost real money when they're wrong.
@@ -68,6 +69,9 @@ For each: API study → adapter → mapping → certification with the partner �
 - **EMS** (expense / purchase-order management): multi-level approval workflows, notifications, FE + BE (React + NestJS).
 - **Flight checkout & delay insurance** (PVI DelayCare): insurance lifecycle, polling / webhooks, reconciliation against flight segments.
 - Internal tooling: E2E test suites, reporting, Mattermost integrations.
+
+### 🎓 Hanoi University of Science and Technology (HUST)
+- **Bachelor of Computer Science** — graduated.
 
 ---
 
@@ -205,7 +209,7 @@ Talking about **travel-tech APIs, supplier integrations, hotel mapping, and back
 
 <div align="center">
 
-🎓 Computer Science · Hanoi University of Science and Technology (HUST)
+🎓 B.Sc. Computer Science · Hanoi University of Science and Technology (HUST)
 
 *"Make the integration boring. Boring is reliable."*
 
