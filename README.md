@@ -4,7 +4,7 @@
 
 # Hi, I'm Kien Nguyen 👋
 
-### Backend & integration engineer · Travel-tech · Hanoi, Vietnam 🇻🇳
+### Tech Lead · Backend & Integrations · Travel-tech · Hanoi, Vietnam 🇻🇳
 
 *I connect travel companies to the world's hotel, flight, tour and transfer suppliers — and keep those connections fast, correct and boring in production.*
 
@@ -33,11 +33,11 @@
 
 ## 💼 Experience
 
-### 🏢 easyGDS / Altovo — Backend & Integration Engineer *(current)*
+### 🏢 easyGDS / Altovo — Tech Lead, Hotel Gateway & Integrations *(current)*
 B2B travel gateway serving travel agencies, airline holiday platforms and B2B resellers.
 
 **Hotel gateway (offer-worker + booking-api)**
-- Core engineer on the hotel aggregation service: one **search → getrooms → prebook → book → retrieve → cancel** API over **40+ suppliers**.
+- Tech lead of the hotel aggregation service — own architecture, supplier roadmap, code review and production on-call: one **search → getrooms → prebook → book → retrieve → cancel** API over **40+ suppliers**.
 - Stack: **Node.js · Koa · MySQL (Knex) · Redis · AWS SQS workers · Datadog / Grafana / Loki / Sentry**.
 - Led / contributed to the **V2 → V3 architecture migration** (20+ suppliers in ~2 weeks): offer-centric response, pluggable "direct-offer" vs "matrix" pricing patterns, unified cancellation-policy normalisation.
 - **SearchV3 performance work** — worker write-path, caching layout, payload compression, chunked supplier fan-out.
